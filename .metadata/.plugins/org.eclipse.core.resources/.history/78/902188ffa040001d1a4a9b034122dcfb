@@ -1,0 +1,7 @@
+package com.hexaware.constructorexample;
+
+public class A {
+	A(){
+		System.out.println("A class Constructor");
+	}
+}

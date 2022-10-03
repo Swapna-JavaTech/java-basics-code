@@ -1,0 +1,10 @@
+package com.hexaware.samplejavaproject.basics;
+
+public class MyProfileDetails {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

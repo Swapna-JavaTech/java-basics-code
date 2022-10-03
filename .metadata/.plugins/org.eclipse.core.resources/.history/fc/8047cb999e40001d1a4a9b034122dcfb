@@ -1,0 +1,10 @@
+package com.hexaware.userdirectorycode;
+
+public class Person {
+	String personName;
+	String personAddress;
+	String personTelephoneNo;
+	String personMobileNo;
+	String personHeadOfFamily;
+	String personUniqueIDNo;
+}
